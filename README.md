@@ -1,6 +1,6 @@
 # Updog 🐶: nterminal chat app
 
-## so what's Updog? (gotcha 😆😆)
+## so what's Updog? 
 
 Updog is a chat app written in c, it can listen to upcoming connections from 1 client and send then receive messages from the client
 
